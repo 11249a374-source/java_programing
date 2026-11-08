@@ -1,0 +1,1 @@
+This JDBC program uses MySQL Connector/J. Update the URL, username and password in `DBConnection.java`. The sample SQL creates a `college` database and `students` table. Do not commit actual passwords to GitHub.

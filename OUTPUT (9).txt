@@ -1,0 +1,2 @@
+Exception handled: cannot divide by zero.
+Program continues normally.

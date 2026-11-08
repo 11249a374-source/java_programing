@@ -1,0 +1,1 @@
+Applets are a legacy Java technology. Modern browsers do not support Java applets, and modern JDKs (including JDK 26) do not provide the old appletviewer workflow. Keep this source for syllabus/record purposes; ask your lab instructor which legacy environment is provided if execution is required.
